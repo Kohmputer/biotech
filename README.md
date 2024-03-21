@@ -8,7 +8,7 @@
 
 3. [STATS News](https://www.statnews.com/)
 
-## Webistes 
+## Websites 
 1. [Out of Pocket] (https://www.outofpocket.health/)
 
    
