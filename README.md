@@ -9,7 +9,7 @@
 3. [STATS News](https://www.statnews.com/)
 
 ## Websites 
-1. [Out of Pocket] (https://www.outofpocket.health/)
+1. [Out of Pocket](https://www.outofpocket.health/)
 
    
 ## Podcasts 
