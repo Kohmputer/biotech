@@ -13,8 +13,15 @@ Developing a new medicine takes an average of 10-15 years.
 
 3. [STATS News](https://www.statnews.com/)
 
+4. [Science](https://www.science.org/)
+
+5. [Fierce Biotech](https://www.fiercebiotech.com/)
+   
+
 ### Websites 
 1. [Out of Pocket](https://www.outofpocket.health/)
+2. [Bay Bridge Bio](https://www.baybridgebio.com/blog.html)
+   - Richard Murphey, the author of this blog, has majored in economics and was brought into the world of biotech by his first job. Since then, he got a PhD in biology, worked in venture, at venture-backed startups (as a co-founder, first employee and independent consultant), in investment banking, and with Google -- all in life sciences. In Bay Bridge Bio he combines his expertise from both biology and investments, writing about biotech startups, venture funds, and investments in biotech. 
 
    
 ### Podcasts 
